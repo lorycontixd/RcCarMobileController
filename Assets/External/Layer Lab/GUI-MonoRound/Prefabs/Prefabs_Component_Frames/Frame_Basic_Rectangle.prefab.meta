@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1bc8735f10a414581a433996a64f19b6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29326
+  packageName: GUI - Mono Round
+  packageVersion: 2.0.0
+  assetPath: Assets/Layer Lab/GUI-MonoRound/Prefabs/Prefabs_Component_Frames/Frame_Basic_Rectangle.prefab
+  uploadId: 627675

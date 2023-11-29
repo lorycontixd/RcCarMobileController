@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 301be3c82c51e4f95966051c4e9d959a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29326
+  packageName: GUI - Mono Round
+  packageVersion: 2.0.0
+  assetPath: Assets/Layer Lab/GUI-MonoRound/Prefabs/Prefabs_Component_UI_Etc/Notify_Red.prefab
+  uploadId: 627675

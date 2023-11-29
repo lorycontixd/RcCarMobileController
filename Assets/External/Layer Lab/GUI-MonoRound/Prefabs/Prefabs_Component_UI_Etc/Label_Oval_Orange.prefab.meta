@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1af7bbbd0d250444ab1c1be0f5170842
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29326
+  packageName: GUI - Mono Round
+  packageVersion: 2.0.0
+  assetPath: Assets/Layer Lab/GUI-MonoRound/Prefabs/Prefabs_Component_UI_Etc/Label_Oval_Orange.prefab
+  uploadId: 627675

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e8d81b09eb7904338a22ef2350f5c74d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29326
+  packageName: GUI - Mono Round
+  packageVersion: 2.0.0
+  assetPath: Assets/Layer Lab/GUI-MonoRound/Prefabs/Prefabs_Component_Frames/Frame_TabMenu.prefab
+  uploadId: 627675

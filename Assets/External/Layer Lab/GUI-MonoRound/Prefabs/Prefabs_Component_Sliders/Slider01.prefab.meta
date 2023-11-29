@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f565b92e3546146df928807f7389b0b8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29326
+  packageName: GUI - Mono Round
+  packageVersion: 2.0.0
+  assetPath: Assets/Layer Lab/GUI-MonoRound/Prefabs/Prefabs_Component_Sliders/Slider01.prefab
+  uploadId: 627675

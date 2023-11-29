@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ccbfacc2b8e94c14993b4b8ee3bd42dd
+timeCreated: 1547393127
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 140551
+  packageName: Simple Bluetooth for android
+  packageVersion: 1.25
+  assetPath: Assets/SimpleBluetoothForAndroid/Demos/Game Example/Scenes/Menu.unity
+  uploadId: 585156

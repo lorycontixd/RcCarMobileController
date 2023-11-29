@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0f34edbfe315f49bca15902b2a0b5812
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29326
+  packageName: GUI - Mono Round
+  packageVersion: 2.0.0
+  assetPath: Assets/Layer Lab/GUI-MonoRound/Prefabs/Prefabs_Component_UI_Etc/Label_Oval_Blue.prefab
+  uploadId: 627675

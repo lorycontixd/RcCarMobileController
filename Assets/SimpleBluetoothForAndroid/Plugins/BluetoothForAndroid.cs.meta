@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 267e70df40fb892429d297a54b396f1c
+timeCreated: 1550671012
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 140551
+  packageName: Simple Bluetooth for android
+  packageVersion: 1.25
+  assetPath: Assets/SimpleBluetoothForAndroid/Plugins/BluetoothForAndroid.cs
+  uploadId: 585156

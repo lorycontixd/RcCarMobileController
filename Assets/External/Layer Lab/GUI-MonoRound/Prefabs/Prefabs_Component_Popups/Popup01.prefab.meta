@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 72c93ef46b2da446da5ef84e0ca274bf
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29326
+  packageName: GUI - Mono Round
+  packageVersion: 2.0.0
+  assetPath: Assets/Layer Lab/GUI-MonoRound/Prefabs/Prefabs_Component_Popups/Popup01.prefab
+  uploadId: 627675

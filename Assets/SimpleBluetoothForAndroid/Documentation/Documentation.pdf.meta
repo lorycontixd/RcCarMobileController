@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: dad1a25031f10da43b6b42866927247b
+timeCreated: 1551018793
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 140551
+  packageName: Simple Bluetooth for android
+  packageVersion: 1.25
+  assetPath: Assets/SimpleBluetoothForAndroid/Documentation/Documentation.pdf
+  uploadId: 585156

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f9f677bffeba74c96b1a281866023eea
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29326
+  packageName: GUI - Mono Round
+  packageVersion: 2.0.0
+  assetPath: Assets/Layer Lab/GUI-MonoRound/Prefabs/Prefabs_Component_Buttons/Button_Circle_70_Line.prefab
+  uploadId: 627675

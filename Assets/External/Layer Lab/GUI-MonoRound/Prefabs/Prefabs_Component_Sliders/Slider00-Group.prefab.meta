@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 396d9c714c97c4da0ad1ea752b7df717
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29326
+  packageName: GUI - Mono Round
+  packageVersion: 2.0.0
+  assetPath: Assets/Layer Lab/GUI-MonoRound/Prefabs/Prefabs_Component_Sliders/Slider00-Group.prefab
+  uploadId: 627675

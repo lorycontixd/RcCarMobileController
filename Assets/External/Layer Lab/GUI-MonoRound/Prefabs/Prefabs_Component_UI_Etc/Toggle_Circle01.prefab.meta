@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 87a1e08ac24f14aea950f58a1a120d19
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29326
+  packageName: GUI - Mono Round
+  packageVersion: 2.0.0
+  assetPath: Assets/Layer Lab/GUI-MonoRound/Prefabs/Prefabs_Component_UI_Etc/Toggle_Circle01.prefab
+  uploadId: 627675

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e45a40d94e6dc440eb75ef2aa2cf225e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29326
+  packageName: GUI - Mono Round
+  packageVersion: 2.0.0
+  assetPath: Assets/Layer Lab/GUI-MonoRound/Prefabs/Prefabs_DemoScene/Popup_Shop_Life.prefab
+  uploadId: 627675

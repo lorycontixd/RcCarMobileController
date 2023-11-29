@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f6b9ab8c01ca54e82920fddc06cde2b4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29326
+  packageName: GUI - Mono Round
+  packageVersion: 2.0.0
+  assetPath: Assets/Layer Lab/GUI-MonoRound/Prefabs/Prefabs_Component_ActionText/ActionText_Great.prefab
+  uploadId: 627675

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d383dbd9c40d54be2b7f935a64a95a9b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29326
+  packageName: GUI - Mono Round
+  packageVersion: 2.0.0
+  assetPath: Assets/Layer Lab/GUI-MonoRound/Prefabs/Prefabs_Component_Sliders/Slider00_WhiteCustom.prefab
+  uploadId: 627675

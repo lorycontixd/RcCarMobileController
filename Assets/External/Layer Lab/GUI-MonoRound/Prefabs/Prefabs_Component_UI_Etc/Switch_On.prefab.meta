@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c6d9e276b1a6f4f8fb73033a0c0c9347
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29326
+  packageName: GUI - Mono Round
+  packageVersion: 2.0.0
+  assetPath: Assets/Layer Lab/GUI-MonoRound/Prefabs/Prefabs_Component_UI_Etc/Switch_On.prefab
+  uploadId: 627675

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a2f81294adec340a49df7b4a6cc5bbbb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29326
+  packageName: GUI - Mono Round
+  packageVersion: 2.0.0
+  assetPath: Assets/Layer Lab/GUI-MonoRound/Prefabs/Prefabs_Component_Frames/Frame_ItemFrame01-Group.prefab
+  uploadId: 627675

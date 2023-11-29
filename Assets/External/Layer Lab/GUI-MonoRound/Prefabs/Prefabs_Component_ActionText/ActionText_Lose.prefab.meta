@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ed7f15d79c045409aa84ae9a15bb93c2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29326
+  packageName: GUI - Mono Round
+  packageVersion: 2.0.0
+  assetPath: Assets/Layer Lab/GUI-MonoRound/Prefabs/Prefabs_Component_ActionText/ActionText_Lose.prefab
+  uploadId: 627675

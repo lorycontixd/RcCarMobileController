@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 3036d14754ed8b34f8986bc63dc87919
+timeCreated: 1524819255
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 140551
+  packageName: Simple Bluetooth for android
+  packageVersion: 1.25
+  assetPath: Assets/SimpleBluetoothForAndroid/Plugins/AndroidRuntimePermissions/AndroidRuntimePermissions.cs
+  uploadId: 585156

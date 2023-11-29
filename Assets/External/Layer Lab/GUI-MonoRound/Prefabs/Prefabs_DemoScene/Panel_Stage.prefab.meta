@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1b0dcc368cfac4cee8fc04ae1da2eef7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29326
+  packageName: GUI - Mono Round
+  packageVersion: 2.0.0
+  assetPath: Assets/Layer Lab/GUI-MonoRound/Prefabs/Prefabs_DemoScene/Panel_Stage.prefab
+  uploadId: 627675

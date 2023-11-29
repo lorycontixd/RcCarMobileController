@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: abd8b5ece6c8446b785a80b977d13e2e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29326
+  packageName: GUI - Mono Round
+  packageVersion: 2.0.0
+  assetPath: Assets/Layer Lab/GUI-MonoRound/Prefabs/Prefabs_DemoScene/Popup_Stage_Complete_2.prefab
+  uploadId: 627675

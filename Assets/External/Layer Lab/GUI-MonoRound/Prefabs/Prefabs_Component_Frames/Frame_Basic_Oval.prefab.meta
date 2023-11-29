@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fe0f8bbe297ec441badc4c30e483f82c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29326
+  packageName: GUI - Mono Round
+  packageVersion: 2.0.0
+  assetPath: Assets/Layer Lab/GUI-MonoRound/Prefabs/Prefabs_Component_Frames/Frame_Basic_Oval.prefab
+  uploadId: 627675

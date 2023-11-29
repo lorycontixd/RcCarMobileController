@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 712939953db834e91b26c74d6afb3d49
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29326
+  packageName: GUI - Mono Round
+  packageVersion: 2.0.0
+  assetPath: Assets/Layer Lab/GUI-MonoRound/Prefabs/Prefabs_Component_ActionText/ActionText_Start.prefab
+  uploadId: 627675

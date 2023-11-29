@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: faf2fd18ec3d74ae180646fda66dbec6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29326
+  packageName: GUI - Mono Round
+  packageVersion: 2.0.0
+  assetPath: Assets/Layer Lab/GUI-MonoRound/Prefabs/Prefabs_Component_UI_Etc/Status_Group_Gray.prefab
+  uploadId: 627675

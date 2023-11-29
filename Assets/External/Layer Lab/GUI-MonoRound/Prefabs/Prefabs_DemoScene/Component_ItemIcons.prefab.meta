@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b18b9d4b61a3c4996aa6e4cb06d2a6e5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29326
+  packageName: GUI - Mono Round
+  packageVersion: 2.0.0
+  assetPath: Assets/Layer Lab/GUI-MonoRound/Prefabs/Prefabs_DemoScene/Component_ItemIcons.prefab
+  uploadId: 627675

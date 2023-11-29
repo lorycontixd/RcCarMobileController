@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3caf90d9f0ecf444e865b5fbaa0930af
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 140551
+  packageName: Simple Bluetooth for android
+  packageVersion: 1.25
+  assetPath: Assets/SimpleBluetoothForAndroid/Plugins/AndroidRuntimePermissions/AndroidRuntimePermissions.Runtime.asmdef
+  uploadId: 585156

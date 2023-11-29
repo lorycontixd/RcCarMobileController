@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7a2a6377e82d84ad8828c936931a885c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29326
+  packageName: GUI - Mono Round
+  packageVersion: 2.0.0
+  assetPath: Assets/Layer Lab/GUI-MonoRound/Prefabs/Prefabs_DemoScene/Popup_Mission.prefab
+  uploadId: 627675

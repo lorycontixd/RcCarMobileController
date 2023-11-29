@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 79b49bd7e64ac47bb839611d9f215b1d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29326
+  packageName: GUI - Mono Round
+  packageVersion: 2.0.0
+  assetPath: Assets/Layer Lab/GUI-MonoRound/Prefabs/Prefabs_DemoScene/Component_ActionText.prefab
+  uploadId: 627675

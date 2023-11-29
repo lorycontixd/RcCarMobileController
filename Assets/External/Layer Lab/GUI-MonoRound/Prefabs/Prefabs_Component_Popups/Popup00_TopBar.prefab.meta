@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 84dac3b6a991e430d8e10ee4d0b4394c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29326
+  packageName: GUI - Mono Round
+  packageVersion: 2.0.0
+  assetPath: Assets/Layer Lab/GUI-MonoRound/Prefabs/Prefabs_Component_Popups/Popup00_TopBar.prefab
+  uploadId: 627675

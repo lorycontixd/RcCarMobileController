@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8b7c413a5c8a441fe9e6c35e53d34479
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29326
+  packageName: GUI - Mono Round
+  packageVersion: 2.0.0
+  assetPath: Assets/Layer Lab/GUI-MonoRound/Prefabs/Prefabs_Component_ActionText/ActionText_Awesome.prefab
+  uploadId: 627675

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bf55aa2c0d7914b348b9d193f622141c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29326
+  packageName: GUI - Mono Round
+  packageVersion: 2.0.0
+  assetPath: Assets/Layer Lab/GUI-MonoRound/Scripts/PanelControlMonoRound.cs
+  uploadId: 627675

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 27c5f740903fb43babe3e6f7ac76007a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29326
+  packageName: GUI - Mono Round
+  packageVersion: 2.0.0
+  assetPath: Assets/Layer Lab/GUI-MonoRound/Prefabs/Prefabs_Component_UI_Etc/Notify_Black.prefab
+  uploadId: 627675

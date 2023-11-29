@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7ab760e2f519c4906af1cb53b9b3a7dc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29326
+  packageName: GUI - Mono Round
+  packageVersion: 2.0.0
+  assetPath: Assets/Layer Lab/GUI-MonoRound/Prefabs/Prefabs_Component_UI_Etc/Label_Rectangle_Green.prefab
+  uploadId: 627675

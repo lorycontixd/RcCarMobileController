@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e2f932aa87ac44066b8fd8afe3077683
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29326
+  packageName: GUI - Mono Round
+  packageVersion: 2.0.0
+  assetPath: Assets/Layer Lab/GUI-MonoRound/Prefabs/Prefabs_Component_Buttons/Button_Rectangle02_Green.prefab
+  uploadId: 627675

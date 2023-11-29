@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 13cf8d2096ae047a5bb767fa29fbfe41
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29326
+  packageName: GUI - Mono Round
+  packageVersion: 2.0.0
+  assetPath: Assets/Layer Lab/GUI-MonoRound/Prefabs/Prefabs_Component_Buttons/Button_Rectangle01_n_WhiteCustom.prefab
+  uploadId: 627675

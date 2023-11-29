@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 58566613b03d94ddcae7c8275d6a54b6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29326
+  packageName: GUI - Mono Round
+  packageVersion: 2.0.0
+  assetPath: Assets/Layer Lab/GUI-MonoRound/Prefabs/Prefabs_Component_UI_Etc/InputField_Type_Group.prefab
+  uploadId: 627675

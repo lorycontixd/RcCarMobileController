@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5ee912e5d6c228c4da0b2ca1d53a001e
+timeCreated: 1551017322
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 140551
+  packageName: Simple Bluetooth for android
+  packageVersion: 1.25
+  assetPath: Assets/SimpleBluetoothForAndroid/Demos/Usage Example/Scenes/Main.unity
+  uploadId: 585156

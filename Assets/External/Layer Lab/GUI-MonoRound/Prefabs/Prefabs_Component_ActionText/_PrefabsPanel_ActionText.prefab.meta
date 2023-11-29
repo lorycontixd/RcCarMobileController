@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d73cdb25883ac46b4b1543eb3ec0e2c2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29326
+  packageName: GUI - Mono Round
+  packageVersion: 2.0.0
+  assetPath: Assets/Layer Lab/GUI-MonoRound/Prefabs/Prefabs_Component_ActionText/_PrefabsPanel_ActionText.prefab
+  uploadId: 627675

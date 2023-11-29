@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 202bff06425884fa68ad3d8719f8edbc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29326
+  packageName: GUI - Mono Round
+  packageVersion: 2.0.0
+  assetPath: Assets/Layer Lab/GUI-MonoRound/Prefabs/Prefabs_Component_Frames/Frame_StageFrame_WhiteCustom.prefab
+  uploadId: 627675

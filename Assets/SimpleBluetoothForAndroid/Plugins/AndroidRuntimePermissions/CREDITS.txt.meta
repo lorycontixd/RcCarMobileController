@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2202d107a7d75364fb19d25ebc3d3ac2
+timeCreated: 1524849779
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 140551
+  packageName: Simple Bluetooth for android
+  packageVersion: 1.25
+  assetPath: Assets/SimpleBluetoothForAndroid/Plugins/AndroidRuntimePermissions/CREDITS.txt
+  uploadId: 585156

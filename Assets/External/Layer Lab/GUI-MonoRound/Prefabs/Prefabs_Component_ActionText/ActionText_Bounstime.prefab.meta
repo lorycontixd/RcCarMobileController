@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3bab4117fe77f49d2953bb5d55735e52
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29326
+  packageName: GUI - Mono Round
+  packageVersion: 2.0.0
+  assetPath: Assets/Layer Lab/GUI-MonoRound/Prefabs/Prefabs_Component_ActionText/ActionText_Bounstime.prefab
+  uploadId: 627675

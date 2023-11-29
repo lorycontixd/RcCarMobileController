@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9d3c5c6bc407a472a83c772b4483be18
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29326
+  packageName: GUI - Mono Round
+  packageVersion: 2.0.0
+  assetPath: Assets/Layer Lab/GUI-MonoRound/Prefabs/Prefabs_Component_ActionText/ActionText_Gameover.prefab
+  uploadId: 627675

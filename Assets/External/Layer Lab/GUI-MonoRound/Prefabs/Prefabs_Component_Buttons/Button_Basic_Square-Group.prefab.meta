@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 17e77a75c1c934e148c4b82060805bd2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29326
+  packageName: GUI - Mono Round
+  packageVersion: 2.0.0
+  assetPath: Assets/Layer Lab/GUI-MonoRound/Prefabs/Prefabs_Component_Buttons/Button_Basic_Square-Group.prefab
+  uploadId: 627675

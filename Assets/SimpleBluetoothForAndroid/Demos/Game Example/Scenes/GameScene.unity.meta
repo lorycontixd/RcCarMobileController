@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: da92ce338e5af734190a1fda4eb1e420
+timeCreated: 1550234839
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 140551
+  packageName: Simple Bluetooth for android
+  packageVersion: 1.25
+  assetPath: Assets/SimpleBluetoothForAndroid/Demos/Game Example/Scenes/GameScene.unity
+  uploadId: 585156

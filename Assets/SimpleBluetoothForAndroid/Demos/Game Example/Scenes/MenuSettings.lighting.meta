@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0dc3293beacf7e54bb9751e4281205b5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 140551
+  packageName: Simple Bluetooth for android
+  packageVersion: 1.25
+  assetPath: Assets/SimpleBluetoothForAndroid/Demos/Game Example/Scenes/MenuSettings.lighting
+  uploadId: 585156

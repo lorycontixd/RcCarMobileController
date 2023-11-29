@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 7cc3a4cce05ad5c459f3424cb3d519ee
+timeCreated: 1550409650
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 380
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 140551
+  packageName: Simple Bluetooth for android
+  packageVersion: 1.25
+  assetPath: Assets/SimpleBluetoothForAndroid/Demos/Game Example/Scripts/NetworkManager.cs
+  uploadId: 585156

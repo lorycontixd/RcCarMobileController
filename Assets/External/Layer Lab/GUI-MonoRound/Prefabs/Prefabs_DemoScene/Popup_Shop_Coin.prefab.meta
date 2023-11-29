@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a2935d4d6a0b74813adef3dcd1acdb17
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29326
+  packageName: GUI - Mono Round
+  packageVersion: 2.0.0
+  assetPath: Assets/Layer Lab/GUI-MonoRound/Prefabs/Prefabs_DemoScene/Popup_Shop_Coin.prefab
+  uploadId: 627675

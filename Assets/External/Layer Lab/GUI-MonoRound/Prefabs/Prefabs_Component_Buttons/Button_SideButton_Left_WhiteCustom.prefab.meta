@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bccbdf11b4dd34f82813eb03c69dda7d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29326
+  packageName: GUI - Mono Round
+  packageVersion: 2.0.0
+  assetPath: Assets/Layer Lab/GUI-MonoRound/Prefabs/Prefabs_Component_Buttons/Button_SideButton_Left_WhiteCustom.prefab
+  uploadId: 627675

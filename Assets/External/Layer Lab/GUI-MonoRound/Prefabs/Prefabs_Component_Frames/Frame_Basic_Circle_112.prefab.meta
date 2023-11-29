@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b4c4648dd299d41148d87bc7848da0b9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29326
+  packageName: GUI - Mono Round
+  packageVersion: 2.0.0
+  assetPath: Assets/Layer Lab/GUI-MonoRound/Prefabs/Prefabs_Component_Frames/Frame_Basic_Circle_112.prefab
+  uploadId: 627675

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a79f6f40d46974576a4b2450820c29c0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29326
+  packageName: GUI - Mono Round
+  packageVersion: 2.0.0
+  assetPath: Assets/Layer Lab/GUI-MonoRound/Prefabs/Prefabs_Component_UI_Etc/Label_Bubble_Green.prefab
+  uploadId: 627675

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ddecd5cc81a9347bc8e35d8b73c1c56f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29326
+  packageName: GUI - Mono Round
+  packageVersion: 2.0.0
+  assetPath: Assets/Layer Lab/GUI-MonoRound/Prefabs/Prefabs_DemoScene/Popup_Pause.prefab
+  uploadId: 627675

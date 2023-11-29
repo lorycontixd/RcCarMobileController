@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: de6625b7697794302be49376018db40c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29326
+  packageName: GUI - Mono Round
+  packageVersion: 2.0.0
+  assetPath: Assets/Layer Lab/GUI-MonoRound/Prefabs/Prefabs_Component_Sliders/SliderGroup_UserInfo_WhiteCustom.prefab
+  uploadId: 627675

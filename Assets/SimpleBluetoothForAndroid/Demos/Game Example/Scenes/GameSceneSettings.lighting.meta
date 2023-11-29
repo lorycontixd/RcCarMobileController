@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 95d1e11354d0e6246a6883af01737cea
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 140551
+  packageName: Simple Bluetooth for android
+  packageVersion: 1.25
+  assetPath: Assets/SimpleBluetoothForAndroid/Demos/Game Example/Scenes/GameSceneSettings.lighting
+  uploadId: 585156

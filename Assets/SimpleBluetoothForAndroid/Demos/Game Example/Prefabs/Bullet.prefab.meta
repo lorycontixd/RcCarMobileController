@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c128f36eda4396344bea624e4fe3d50f
+timeCreated: 1550235053
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 140551
+  packageName: Simple Bluetooth for android
+  packageVersion: 1.25
+  assetPath: Assets/SimpleBluetoothForAndroid/Demos/Game Example/Prefabs/Bullet.prefab
+  uploadId: 585156

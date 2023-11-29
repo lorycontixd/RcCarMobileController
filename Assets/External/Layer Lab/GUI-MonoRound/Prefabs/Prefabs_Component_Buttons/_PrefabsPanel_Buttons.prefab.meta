@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fab74ccb90f934586a23da3843015eed
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29326
+  packageName: GUI - Mono Round
+  packageVersion: 2.0.0
+  assetPath: Assets/Layer Lab/GUI-MonoRound/Prefabs/Prefabs_Component_Buttons/_PrefabsPanel_Buttons.prefab
+  uploadId: 627675

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 46e8fbd6d835f98428d28f4819475bfa
+timeCreated: 1550409650
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 350
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 140551
+  packageName: Simple Bluetooth for android
+  packageVersion: 1.25
+  assetPath: Assets/SimpleBluetoothForAndroid/Demos/Game Example/Scripts/MenuInterface.cs
+  uploadId: 585156

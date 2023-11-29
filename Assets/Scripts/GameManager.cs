@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityAndroidBluetooth;
 
 public class GameManager : MonoBehaviour
 {
@@ -31,13 +32,39 @@ public class GameManager : MonoBehaviour
     #endregion
 
     public PowerState controllerState { get; private set; }
-    public string connectedDevice = "";
+    public string connectedDevice { get; private set; } = "";
+    public List<BluetoothDevice> currentlyAvailableBluetoothDevices { get; private set; } = new List<BluetoothDevice>();
+
+    [SerializeField] private FixedJoystick leftAnalog; // Speed controller
+    [SerializeField] private FixedJoystick rightAnalog; // direction controller
 
     public Action onDeviceConnected;
     public Action onDeviceDisconnected;
     public Action<PowerState> onControllerStateChanged;
 
+    private BluetoothServer server;
 
+    private void Start()
+    {
+        server = new BluetoothServer();
+        server.ClientConnected += OnClientConnected;
+        StartCoroutine(StartSearchDelayed(2f));
+    }
+    private void Update()
+    {
+        if (server != null)
+            Debug.Log($"Found devices: {server.foundDevices.Count}");
+    }
+    private IEnumerator StartSearchDelayed(float delay)
+    {
+        yield return new WaitForSeconds(delay);
+        Bluetooth.SearchDevices();
+    }
+
+    private void OnClientConnected(object sender, DeviceInfoEventArgs e)
+    {
+        Debug.Log($"CLIENT CONNECTED: {sender}, ({e.Device.name}, {e.Device.address})");
+    }
 
     public void TurnOnController()
     {
@@ -48,5 +75,11 @@ public class GameManager : MonoBehaviour
     {
         controllerState = PowerState.OFF;
         onControllerStateChanged?.Invoke(PowerState.OFF);
+    }
+
+    public void StartBluetoothDeviceSearch()
+    {
+        Bluetooth.SearchDevices();
+
     }
 }
